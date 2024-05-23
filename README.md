@@ -47,8 +47,10 @@ O script Python processa um arquivo CSV de entrada e gera um arquivo CSV de saí
    ```sh
    python script.py --input input.csv --output output.csv
 
-    Este comando lê os dados do arquivo `input.csv`, consulta a API para cada entrada, e salva os resultados em `output.csv`.
    ```
+
+   - Este comando lê os dados do arquivo `input.csv`, consulta a API para cada entrada, e salva os resultados em `output.csv`.
+
 ## Estrutura do Projeto
 - VBA-Web - Teste de Automatização: Planilha com VBA.
 - script.py: Script Python para processamento dos dados.
